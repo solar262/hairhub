@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#050505"/><stop offset=".55" stop-color="#140812"/><stop offset="1" stop-color="#050505"/></linearGradient>
+    <radialGradient id="glow" cx="30%" cy="18%" r="60%"><stop stop-color="#ff4aa6" stop-opacity=".55"/><stop offset="1" stop-color="#ff4aa6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="pink" x1="0" x2="1"><stop stop-color="#ff4aa6"/><stop offset="1" stop-color="#ff9aca"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000" flood-opacity=".45"/></filter>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#bg)"/>
+  <rect width="1200" height="1600" fill="url(#glow)"/>
+  <circle cx="210" cy="245" r="125" fill="#1f1f24" stroke="#ff6fb7" stroke-width="8"/>
+  <circle cx="210" cy="205" r="42" fill="#ffcae5"/>
+  <path d="M115 365c20-82 72-122 95-122s75 40 95 122" fill="#ffcae5"/>
+  <path d="M155 162c52-38 137-18 168 44 25 50 7 116-42 158 20-76-8-133-78-154-32-10-50-23-48-48z" fill="#0c0c0d"/>
+  <circle cx="600" cy="230" r="145" fill="#222229" stroke="#ff6fb7" stroke-width="8"/>
+  <circle cx="600" cy="185" r="48" fill="#ffc5e1"/>
+  <path d="M492 378c20-92 79-137 108-137s88 45 108 137" fill="#ffc5e1"/>
+  <path d="M518 122c62-50 163-26 200 48 30 61 7 142-58 191 26-91-15-157-98-181-38-11-49-27-44-58z" fill="#090909"/>
+  <circle cx="985" cy="245" r="125" fill="#1f1f24" stroke="#ff6fb7" stroke-width="8"/>
+  <circle cx="985" cy="205" r="42" fill="#f0b48c"/>
+  <path d="M890 365c20-82 72-122 95-122s75 40 95 122" fill="#f0b48c"/>
+  <path d="M926 150c64-31 136 5 157 68 17 52-2 108-44 146 15-72-14-125-83-147-31-10-40-31-30-67z" fill="#1a0d0b"/>
+  <text x="600" y="610" text-anchor="middle" font-family="Georgia,serif" font-size="154" font-weight="700" fill="url(#pink)" filter="url(#shadow)">HairHub</text>
+  <text x="600" y="710" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" fill="#fff">Wig Reviews • Hair Care • Beauty Deals</text>
+  <rect x="265" y="785" rx="44" width="670" height="96" fill="url(#pink)"/>
+  <text x="600" y="850" text-anchor="middle" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#090909">hairhub.club</text>
+  <g transform="translate(115 995)">
+    <rect width="300" height="360" rx="26" fill="#16161b" stroke="#333"/>
+    <rect x="28" y="32" width="244" height="190" rx="18" fill="#ffe0ef"/>
+    <path d="M78 195c12-70 54-111 76-111s64 41 76 111" fill="#0a0a0b"/>
+    <circle cx="154" cy="91" r="42" fill="#e9b28d"/>
+    <text x="150" y="275" text-anchor="middle" font-family="Arial" font-size="28" fill="#fff" font-weight="700">Beginner Wigs</text>
+    <text x="150" y="318" text-anchor="middle" font-family="Arial" font-size="24" fill="#ff7fbd">Shop smarter</text>
+  </g>
+  <g transform="translate(450 995)">
+    <rect width="300" height="360" rx="26" fill="#16161b" stroke="#333"/>
+    <rect x="28" y="32" width="244" height="190" rx="18" fill="#ffc2df"/>
+    <path d="M72 205c28-84 128-84 156 0" fill="#070707"/>
+    <text x="150" y="275" text-anchor="middle" font-family="Arial" font-size="28" fill="#fff" font-weight="700">Human Hair</text>
+    <text x="150" y="318" text-anchor="middle" font-family="Arial" font-size="24" fill="#ff7fbd">Reviews + deals</text>
+  </g>
+  <g transform="translate(785 995)">
+    <rect width="300" height="360" rx="26" fill="#16161b" stroke="#333"/>
+    <rect x="28" y="32" width="244" height="190" rx="18" fill="#ffd7ea"/>
+    <path d="M70 205c40-76 122-94 168-12" fill="#140e0a"/>
+    <text x="150" y="275" text-anchor="middle" font-family="Arial" font-size="28" fill="#fff" font-weight="700">Hair Care</text>
+    <text x="150" y="318" text-anchor="middle" font-family="Arial" font-size="24" fill="#ff7fbd">Tips + routines</text>
+  </g>
+  <text x="600" y="1485" text-anchor="middle" font-family="Arial" font-size="42" font-weight="800" fill="#fff">Top Wig Reviews • Hair Care Guides • Exclusive Deals</text>
+</svg>
